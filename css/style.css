@@ -9,7 +9,6 @@
     background-color: black;
     animation-name: animacion;
     animation-duration: 5s;
-    animation animation-delay: 0s;
     animation-timing-function: linearGradient;
     animation-iteration-count: infinite;
 }
@@ -20,3 +19,9 @@
     50% {background: goldenrod;}
     75% {background: black;}
     100% {background: goldenrod;}
+}
+
+#mapa {
+    display: flex;
+}
+
